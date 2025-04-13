@@ -1,0 +1,12 @@
+﻿{
+  "applications": {
+    "Touralya": {
+      "type": "dotnet-project",
+      "launchUrl": "https://localhost:44389",
+      "path": "../../Touralya/Touralya.csproj",
+      "execution": {
+        "order": 0
+      }
+    }
+  }
+}
